@@ -41,7 +41,5 @@
 </p>
 
 </div>
-  <a href="https://github.com/MatheusAlexandre28">
   ![Snake animation](https://github.com/MatheusAlexandre28/MatheusAlexandre28/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
