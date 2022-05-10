@@ -1,9 +1,4 @@
 ## What's up, i'm Matheus 🖖
-I'm a technology student, I started this journey six months ago in search of becoming a great professional in the area🐱‍🏍 I want to learn and carry out increasingly challenging, projects that make me feel the joy of solving a problem and at the same time developing myself😎 I will do everything to improve myself and help other people improve with me.🤩
-I'm currently studying front-end, css, html and JavaScript✨ I've taken a course in Python and SQL.
-
-  ##
-  
 <div align="center">
   <a href="https://github.com/MatheusAlexandre28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAlexandre28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
