@@ -6,9 +6,7 @@
 - 💬 studying about **JavaScript, HTML, CSS, SQL, Node.JS**
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/matheus-alexandre-17667a1b5/), [instagram](https://www.instagram.com/matheuss_ale/) or [Gmail](mailto:mrlegolas28@gmail.com)
 
-<br><br>
-
-
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,7 +18,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -29,7 +27,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlexandre28&layout=compact&theme=vision-friendly-dark" alt="MatheusAlexandre28's most languages"/>
 </p>
 
-<br><br>
 
 ## 👨‍🦱 &nbsp;Social Links
 
