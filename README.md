@@ -1,4 +1,4 @@
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="left">Hi dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Alexandre</h1>
 
 - 🔥 Student developer & looking for first internship.
@@ -7,6 +7,8 @@
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/matheus-alexandre-17667a1b5/), [instagram](https://www.instagram.com/matheuss_ale/) or [Gmail](mailto:mrlegolas28@gmail.com)
 
 <br><br>
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -29,7 +31,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨‍🦱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/matheus-alexandre-17667a1b5/" target="_blank">
@@ -40,6 +42,5 @@
 </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/MatheusAlexandre28/MatheusAlexandre28/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/MatheusAlexandre28/MatheusAlexandre28/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
