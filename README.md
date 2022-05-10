@@ -4,7 +4,7 @@
 - 🔥 Student developer & looking for first internship.
 - ⚛️ JavaScript | Python | HTML | CSS
 - 💬 studying about **JavaScript, HTML, CSS, SQL, Node.JS**
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/matheus-alexandre-17667a1b5/), [instagram](https://www.instagram.com/matheuss_ale/) or [Gmail](mrlegolas28@gmail.com)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/matheus-alexandre-17667a1b5/), [instagram](https://www.instagram.com/matheuss_ale/) or [Gmail](mailto:mrlegolas28@gmail.com)
 
 <br><br>
 
@@ -40,4 +40,8 @@
 </a>
 </p>
 
-
+<div> 
+ 
+  ![Snake animation](https://github.com/MatheusAlexandre28/MatheusAlexandre28/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
