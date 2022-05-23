@@ -9,8 +9,12 @@
 - 💬 studying about **JavaScript, HTML, CSS, SQL, Node.JS**
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/matheus-alexandre-17667a1b5/), [instagram](https://www.instagram.com/matheuss_ale/) or [Gmail](mailto:mrlegolas28@gmail.com)
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=MatheusAlexandre28&show_icons=true&theme=gotham" alt="MatheusAlexandre28" />
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlexandre28&layout=compact&langs_count=7&theme=gotham"/>
+<div align="center">
+  <a href="https://github.com/juancarlosbs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAlexandre28&show_icons=true&theme=gotham" alt="MatheusAlexandre28"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlexandre28&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 
 ## 🛠 &nbsp;Tech Stack
 
