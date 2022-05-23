@@ -1,11 +1,16 @@
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
+
 <h1 align="left">Hi dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Alexandre</h1>
 
-- 🔥 Student developer & looking for first internship.
+- 🔥 Student developer & looking for first internship. 
 - ⚛️ JavaScript | Python | HTML | CSS
 - 💬 studying about **JavaScript, HTML, CSS, SQL, Node.JS**
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/matheus-alexandre-17667a1b5/), [instagram](https://www.instagram.com/matheuss_ale/) or [Gmail](mailto:mrlegolas28@gmail.com)
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=MatheusAlexandre28&show_icons=true&theme=gotham" alt="MatheusAlexandre28" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlexandre28&layout=compact&langs_count=7&theme=gotham"/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -18,7 +23,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
-## 👨‍🦱 &nbsp;Social Links
+## &nbsp; <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/matheus-alexandre-17667a1b5/" target="_blank">
@@ -29,5 +35,6 @@
 </a>
 </p>
 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
 
