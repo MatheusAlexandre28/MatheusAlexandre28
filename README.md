@@ -2,7 +2,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=150 />
 </a>
 
-<h1 align="left">Hi dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Alexandre</h1>
+<h1 align="left">Hi dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Matheus Alexandre</h1>
 
 - 🔥 Student developer & looking for first internship. 
 - ⚛️ JavaScript | Python | HTML | CSS
