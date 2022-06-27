@@ -1,5 +1,5 @@
 <a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=150 />
+  <img align="right" src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width=200 />
 </a>
 
 <h1 align="left">Hi dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Matheus Alexandre</h1>
